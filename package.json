@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "index",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas, Thais",
+  "license": "ISC",
+  "description": "Trab de Eng. de Soft."
+}
